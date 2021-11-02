@@ -1,0 +1,7 @@
+D:\JAYASREE\c#programs\faceBook\faceBook\bin\Debug\faceBook.exe.config
+D:\JAYASREE\c#programs\faceBook\faceBook\bin\Debug\faceBook.exe
+D:\JAYASREE\c#programs\faceBook\faceBook\bin\Debug\faceBook.pdb
+D:\JAYASREE\c#programs\faceBook\faceBook\obj\Debug\faceBook.csproj.AssemblyReference.cache
+D:\JAYASREE\c#programs\faceBook\faceBook\obj\Debug\faceBook.csproj.CoreCompileInputs.cache
+D:\JAYASREE\c#programs\faceBook\faceBook\obj\Debug\faceBook.exe
+D:\JAYASREE\c#programs\faceBook\faceBook\obj\Debug\faceBook.pdb
